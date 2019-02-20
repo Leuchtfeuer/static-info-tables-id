@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-07-30T15:19:07Z" product-name="static_info_tables_id">
+		<header/>
+		<body>
+			<trans-unit id="static_territories_item.tr_name_id" xml:space="preserve">
+				<source>Name (ID):</source>
+			</trans-unit>
+			<trans-unit id="static_countries_item.cn_official_name_id" xml:space="preserve">
+				<source>Official name (ID):</source>
+			</trans-unit>
+			<trans-unit id="static_countries_item.cn_short_id" xml:space="preserve">
+				<source>Short name (ID):</source>
+			</trans-unit>
+			<trans-unit id="static_country_zones_item.zn_name_id" xml:space="preserve">
+				<source>Name (ID):</source>
+			</trans-unit>
+			<trans-unit id="static_languages_item.lg_name_id" xml:space="preserve">
+				<source>Name (ID):</source>
+			</trans-unit>
+			<trans-unit id="static_currencies_item.cu_name_id" xml:space="preserve">
+				<source>Name (ID):</source>
+			</trans-unit>
+			<trans-unit id="static_currencies_item.cu_sub_name_id" xml:space="preserve">
+				<source>Sub name (ID):</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
