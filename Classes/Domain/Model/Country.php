@@ -9,11 +9,17 @@ class Country extends AbstractEntity
      */
     protected $shortNameId = '';
 
+    /**
+     * @return string
+     */
     public function getShortNameId(): string
     {
         return $this->shortNameId;
     }
 
+    /**
+     * @param string $shortNameId
+     */
     public function setShortNameId(string $shortNameId): void
     {
         $this->shortNameId = $shortNameId;
