@@ -25,7 +25,7 @@ class Currency extends AbstractEntity
     /**
      * @param string $nameId
      */
-    public function setNameId(string $nameId): void
+    public function setNameId(string $nameId)
     {
         $this->nameId = $nameId;
     }
@@ -41,7 +41,7 @@ class Currency extends AbstractEntity
     /**
      * @param string $subdivisionNameId
      */
-    public function setSubdivisionNameId(string $subdivisionNameId): void
+    public function setSubdivisionNameId(string $subdivisionNameId)
     {
         $this->subdivisionNameId = $subdivisionNameId;
     }

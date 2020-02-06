@@ -20,7 +20,7 @@ class Territory extends AbstractEntity
     /**
      * @param string $nameId
      */
-    public function setNameId(string $nameId): void
+    public function setNameId(string $nameId)
     {
         $this->nameId = $nameId;
     }

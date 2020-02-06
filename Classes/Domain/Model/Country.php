@@ -20,7 +20,7 @@ class Country extends AbstractEntity
     /**
      * @param string $shortNameId
      */
-    public function setShortNameId(string $shortNameId): void
+    public function setShortNameId(string $shortNameId)
     {
         $this->shortNameId = $shortNameId;
     }
